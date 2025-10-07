@@ -14,10 +14,24 @@
 
 ---
 
+### 🎓 Student Status
+
+<p align="center">
+    <img src="https://bmusurat.ac.in/bmu_website_static/static/images/bmu_logo.webp" alt="Bhagwan Mahavir University Logo" width="120" />
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Bhagwan%20Mahavir%20University-IT%20Diploma-blue?style=for-the-badge&logo=google-scholar&logoColor=white&color=black" alt="BMU IT Diploma"/>
+</p>
+<p align="center">
+    Currently pursuing IT Diploma at <b>Bhagwan Mahavir University</b>, Surat.
+</p>
+
+---
+
 ### 🌟 About Me
 
-<div align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=700&lines=👋+Hey!+I'm+Suryakant.;" alt="Animated Typing SVG"> 
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&duration=3500&pause=99999999&color=00FF00&center=true&vCenter=true&multiline=true&width=700&lines=👋+Hey!+I'm+Suryakant.;" alt="Animated Typing SVG">
 </div>
 
 ---
@@ -26,9 +40,20 @@ I am a self-taught **Full Stack Developer**, **Cloud Enthusiast**, and **Automat
 
 ---
 
-🛠️ **Tech Stack & Tools**  
-<p align="center"> 
-    <img src="https://skillicons.dev/icons?i=react,nodejs,python,c,cpp,js,linux,bash,mysql,git,github,typescript,docker,nextjs,tailwind" alt="Tech Stack" /> 
+### 🔥 Currently Learning
+
+- Kubernetes
+- Next.js
+- AI/ML integrations
+- Advanced DevOps
+- Modern JavaScript & TypeScript
+
+---
+
+🛠️ **Tech Stack & Tools**
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,python,c,cpp,js,linux,bash,mysql,git,github,typescript,docker,nextjs,tailwind" alt="Tech Stack" />
 </p>
 
 ---
@@ -47,10 +72,11 @@ I am a self-taught **Full Stack Developer**, **Cloud Enthusiast**, and **Automat
 
 ---
 
-📈 **GitHub Stats**  
-<p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=mauryasuryakant&show_icons=true&theme=highcontrast" alt="GitHub Stats" /> 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mauryasuryakant&theme=highcontrast" alt="GitHub Streak" /> 
+📈 **GitHub Stats**
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mauryasuryakant&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mauryasuryakant&theme=highcontrast" alt="GitHub Streak" />
 </p>
 
 <p align="center">
