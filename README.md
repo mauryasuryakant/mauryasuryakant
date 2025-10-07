@@ -8,7 +8,7 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/suryakant-maurya-b3b879385/"><img src="https://img.shields.io/badge/LinkedIn-Suryakant%20Maurya-blue?logo=linkedin&style=for-the-badge&color=black" alt="LinkedIn Badge"/></a>
-    <a href="mailto:mauryasuryakant@gmail.com"><img src="https://img.shields.io/badge/Gmail-mauryasuryakant@gmail.com-red?logo=gmail&style=for-the-badge&color=black" alt="Gmail Badge"/></a>
+    <a href="mailto:mauryasuryakant99@gmail.com"><img src="https://img.shields.io/badge/Gmail-mauryasuryakant99@gmail.com-red?logo=gmail&style=for-the-badge&color=black" alt="Gmail Badge"/></a>
     <a href="https://github.com/mauryasuryakant"><img src="https://img.shields.io/badge/GitHub-mauryasuryakant-171515?logo=github&style=for-the-badge&color=black" alt="GitHub Badge"/></a>
 </div>
 
@@ -60,14 +60,14 @@ I am a self-taught **Full Stack Developer**, **Cloud Enthusiast**, and **Automat
 
 ### 🧠 Learned Matrix
 ```text
-[►] JavaScript   [█████████████████░░░░] 81%
+[►] JavaScript   [█████████████████░░░] 81%
 [►] Linux        [███████████████████░] 98%
-[►] C            [███████████░░░░░░░░] 53%
-[►] C++          [█████████████░░░░░░] 71%
-[►] MySQL        [█████░░░░░░░░░░░░░░] 42%
-[►] Node.js      [████████████████░░░] 83%
-[►] Python       [████████████░░░░░░░] 74%
-[►] TypeScript   [█████████████████░░] 81%
+[►] C            [█████████████░░░░░░░] 53%
+[►] C++          [████████████████░░░░] 71%
+[►] MySQL        [██████████░░░░░░░░░░] 42%
+[►] Node.js      [████████████████░░░░] 83%
+[►] Python       [█████████████████░░░] 74%
+[►] TypeScript   [██████████████████░░] 83%
 ```
 
 ---
