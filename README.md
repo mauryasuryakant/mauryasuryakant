@@ -1,6 +1,6 @@
 ---
 
-<h1 align="center">🛡️ Suryakant Maurya | CODE ARCHITECT 🛡️</h1>
+<h1 align="center">Hi 👋, I'm Suryakant Maurya</h1>
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=matrix&size=28&duration=3000&color=00FF00&center=true&vCenter=true&lines=Full+Stack+Developer;Cloud+Enthusiast;DevOps+Learner;OSINT+Explorer" alt="Typing SVG" />
@@ -14,7 +14,7 @@
 
 ---
 
-### 🌟 [ABOUT ME] Code Architect and Innovator
+### 🌟 About Me
 
 <div align="center"> 
     <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=700&lines=👋+Hey!+I'm+Suryakant.;💻+Building+Tech+for+Tomorrow" alt="Animated Typing SVG"> 
@@ -22,27 +22,7 @@
 
 ---
 
-### Who Am I?
-
-I am **Suryakant Maurya**, a self-taught **Full Stack Developer**, **Cloud Enthusiast**, and **Automation Specialist** from India. I work across **React, Node.js, Python, C, C++**, and more, building innovative solutions and learning new technologies every day.
-
----
-
-### 🌟 [VISION]
-
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=750&lines=Empowering+Technology+With+Skill;Innovate+With+Integrity+and+Passion" alt="Vision Typing Animation">
-</div>
-
----
-
-### [⚠️] System Warning
-```css
-[ALERT] Unauthorized access detected
-[WARN]  System defenses compromised
-[CRIT]  Kernel panic imminent
-[FATAL] Ghost protocol initiated
-```
+I am a self-taught **Full Stack Developer**, **Cloud Enthusiast**, and **Automation Specialist** from India. I work across **React, Node.js, Python, C, C++**, and more, building innovative solutions and learning new technologies every day.
 
 ---
 
@@ -53,13 +33,19 @@ I am **Suryakant Maurya**, a self-taught **Full Stack Developer**, **Cloud Enthu
 
 ---
 
-### [💀] Threat Matrix
+### 🧠 Learned Matrix
 ```text
-[►] System Breach    [███████████████████░] 98%
-[►] Deep Infiltration[██████████████████░░] 95%
-[►] Ghost Protocol   [█████████████████░░░] 92%
-[►] Data Extraction  [████████████████░░░░] 88%
+[►] JavaScript   [█████████████████░░░░] 81%
+[►] Linux        [███████████████████░] 98%
+[►] C            [███████████░░░░░░░░] 53%
+[►] C++          [█████████████░░░░░░] 71%
+[►] MySQL        [█████░░░░░░░░░░░░░░] 42%
+[►] Node.js      [████████████████░░░] 83%
+[►] Python       [████████████░░░░░░░] 74%
+[►] TypeScript   [█████████████████░░] 81%
 ```
+
+---
 
 📈 **GitHub Stats**  
 <p align="center"> 
@@ -70,15 +56,5 @@ I am **Suryakant Maurya**, a self-taught **Full Stack Developer**, **Cloud Enthu
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=mauryasuryakant&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15&bg_color=000000&title_color=00FF00&no-bg=true"/>
 </p>
-
----
-
-### [🕷️] Digital Footprints
-```ascii
-[X] Location     : ENCRYPTED
-[X] Status       : BUILDING
-[X] Target       : DISCOVERING
-[X] Threat Level : INNOVATOR
-```
 
 ---
