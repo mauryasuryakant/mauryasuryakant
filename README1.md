@@ -66,7 +66,8 @@ I work across **React, Node.js, Python, C, C++**, and more, building innovative 
 🛠️ **Tech Stack & Tools**
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,python,c,cpp,js,linux,bash,mysql,git,github,typescript,docker,nextjs,tailwind,cloudflare,aws,gcp,redis,graphql,figma,postman,prisma,vercel,netlify" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,python,c,cpp,js,linux,bash,mysql,git,github,typescript,docker,nextjs,tailwind" alt="Tech Stack" />
+</p>
 </p>
 
 ---
