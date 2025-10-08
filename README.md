@@ -15,7 +15,7 @@
         <img src="https://img.shields.io/badge/Gmail-mauryasuryakant99@gmail.com-red?logo=gmail&style=for-the-badge&color=black" alt="Gmail Badge"/>
     </a>
     <a href="https://twitter.com/mauryasuryakant">
-        <img src="https://img.shields.io/badge/Twitter-@mauryasuryakant-1DA1F2?logo=twitter&style=for-the-badge&color=black" alt="Twitter Badge"/>
+        <img src="https://img.shields.io/badge/Twitter-@suryakant995647-1DA1F2?logo=twitter&style=for-the-badge&color=black" alt="Twitter Badge"/>
     </a>
     <a href="https://dev.to/mauryasuryakant">
         <img src="https://img.shields.io/badge/DEV.to-mauryasuryakant-black?logo=dev.to&style=for-the-badge&color=black" alt="DEV.to Badge"/>
