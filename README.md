@@ -112,7 +112,7 @@ I work across **React, Node.js, Python, C, C++**, and more, building innovative 
 <p align="center">
     <a href="https://www.linkedin.com/in/suryakant-maurya-b3b879385/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
     <a href="mailto:mauryasuryakant99@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
-    <a href="https://twitter.com/mauryasuryakant"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" /></a>
+    <a href="https://twitter.com/suryakant995647"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" /></a>
     <a href="https://dev.to/mauryasuryakant"><img src="https://img.shields.io/badge/DEV.to-black?logo=dev.to&style=for-the-badge" /></a>
     <a href="https://github.com/mauryasuryakant"><img src="https://img.shields.io/badge/GitHub-171515?logo=github&style=for-the-badge" /></a>
 </p>
