@@ -11,12 +11,9 @@
     <a href="https://www.linkedin.com/in/suryakant-maurya-b3b879385/">
         <img src="https://img.shields.io/badge/LinkedIn-Suryakant%20Maurya-blue?logo=linkedin&style=for-the-badge&color=black" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:mauryasuryakant99@gmail.com">
-        <img src="https://img.shields.io/badge/Email-mauryasuryakant99@gmail.com-red?style=for-the-badge&color=black" alt="Email Badge"/>
-    </a>
     <!-- <a href="mailto:mauryasuryakant99@gmail.com">
-        <img src="https://img.shields.io/badge/Email-mauryasuryakant99@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
-    </a> -->
+        <img src="https://img.shields.io/badge/Email-mauryasuryakant99@gmail.com-red?style=for-the-badge&color=black" alt="Email Badge"/>
+    </a> --> 
     <a href="https://twitter.com/suryakant995647">
         <img src="https://img.shields.io/badge/Twitter-@suryakant995647-1DA1F2?logo=twitter&style=for-the-badge&color=black" alt="Twitter Badge"/>
     </a>
