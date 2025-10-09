@@ -48,9 +48,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&duration=3500&pause=99999999&color=00FF00&center=true&vCenter=true&multiline=true&width=700&lines=👋+Hey!+I'm+Suryakant.;" alt="Animated Typing SVG">
 </div>
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2l3cGtlcWl6M3I2ZzU3ZTg0bGZxN3MwYjBiYXU5a3F5c3U3ZzN4NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif" width="180" alt="Coder GIF" />
-</p>
+</p> -->
 
 I am a self-taught <span style="color:#00FF00;"><b>Full Stack Developer</b></span>, <span style="color:#00FF00;"><b>Cloud Enthusiast</b></span>, and <span style="color:#00FF00;"><b>Automation Specialist</b></span> from India.  
 I work across <b>React, Node.js, Python, C, C++</b>, and more, building innovative solutions and learning new technologies every day.
