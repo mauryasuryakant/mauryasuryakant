@@ -1,16 +1,33 @@
----
-
 <h1 align="center">Hi 👋, I'm Suryakant Maurya</h1>
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=matrix&size=28&duration=3000&color=00FF00&center=true&vCenter=true&lines=Full+Stack+Developer;Cloud+Enthusiast;DevOps+Learner;OSINT+Explorer" alt="Typing SVG" />
 </p>
 
-<div align="center">
-    <a href="https://www.linkedin.com/in/suryakant-maurya-b3b879385/"><img src="https://img.shields.io/badge/LinkedIn-Suryakant%20Maurya-blue?logo=linkedin&style=for-the-badge&color=black" alt="LinkedIn Badge"/></a>
-    <a href="mailto:mauryasuryakant99@gmail.com"><img src="https://img.shields.io/badge/Gmail-mauryasuryakant99@gmail.com-red?logo=gmail&style=for-the-badge&color=black" alt="Gmail Badge"/></a>
-    <a href="https://github.com/mauryasuryakant"><img src="https://img.shields.io/badge/GitHub-mauryasuryakant-171515?logo=github&style=for-the-badge&color=black" alt="GitHub Badge"/></a>
-</div>
+<p align="center">
+    <a href="https://github.com/mauryasuryakant">
+        <img src="https://img.shields.io/badge/GitHub-mauryasuryakant-171515?logo=github&style=for-the-badge&color=black" alt="GitHub Badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/suryakant-maurya-b3b879385/">
+        <img src="https://img.shields.io/badge/LinkedIn-Suryakant%20Maurya-blue?logo=linkedin&style=for-the-badge&color=black" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:mauryasuryakant99@gmail.com">
+        <img src="https://img.shields.io/badge/Email-mauryasuryakant99@gmail.com-red?style=for-the-badge&color=black" alt="Email Badge"/>
+    </a>
+    <!-- <a href="mailto:mauryasuryakant99@gmail.com">
+        <img src="https://img.shields.io/badge/Email-mauryasuryakant99@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
+    </a> -->
+    <a href="https://twitter.com/suryakant995647">
+        <img src="https://img.shields.io/badge/Twitter-@suryakant995647-1DA1F2?logo=twitter&style=for-the-badge&color=black" alt="Twitter Badge"/>
+    </a>
+    <a href="https://dev.to/mauryasuryakant">
+        <img src="https://img.shields.io/badge/DEV.to-mauryasuryakant-black?logo=dev.to&style=for-the-badge&color=black" alt="DEV.to Badge"/>
+    </a>
+</p>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=mauryasuryakant&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
@@ -34,9 +51,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&duration=3500&pause=99999999&color=00FF00&center=true&vCenter=true&multiline=true&width=700&lines=👋+Hey!+I'm+Suryakant.;" alt="Animated Typing SVG">
 </div>
 
----
-
-I am a self-taught **Full Stack Developer**, **Cloud Enthusiast**, and **Automation Specialist** from India. I work across **React, Node.js, Python, C, C++**, and more, building innovative solutions and learning new technologies every day.
+I am a self-taught **Full Stack Developer**, **Cloud Enthusiast**, and **Automation Specialist** from India.  
+I work across **React, Node.js, Python, C, C++**, and more, building innovative solutions and learning new technologies every day.
 
 ---
 
@@ -55,6 +71,7 @@ I am a self-taught **Full Stack Developer**, **Cloud Enthusiast**, and **Automat
 <p align="center">
     <img src="https://skillicons.dev/icons?i=react,nodejs,python,c,cpp,js,linux,bash,mysql,git,github,typescript,docker,nextjs,tailwind" alt="Tech Stack" />
 </p>
+</p>
 
 ---
 
@@ -72,7 +89,7 @@ I am a self-taught **Full Stack Developer**, **Cloud Enthusiast**, and **Automat
 
 ---
 
-📈 **GitHub Stats**
+### 🏆 GitHub Achievements & Stats
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=mauryasuryakant&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
@@ -82,5 +99,33 @@ I am a self-taught **Full Stack Developer**, **Cloud Enthusiast**, and **Automat
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=mauryasuryakant&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15&bg_color=000000&title_color=00FF00&no-bg=true"/>
 </p>
+
+---
+
+### 📊 Contribution Graph
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mauryasuryakant&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+### 💬 Connect With Me
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/suryakant-maurya-b3b879385/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+    <a href="mailto:mauryasuryakant99@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
+    <a href="https://twitter.com/suryakant995647"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" /></a>
+    <a href="https://dev.to/mauryasuryakant"><img src="https://img.shields.io/badge/DEV.to-black?logo=dev.to&style=for-the-badge" /></a>
+    <a href="https://github.com/mauryasuryakant"><img src="https://img.shields.io/badge/GitHub-171515?logo=github&style=for-the-badge" /></a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+- I love to automate repetitive tasks and optimize workflows.
+- I enjoy exploring OSINT techniques and cybersecurity.
+- I am always keen to collaborate on open source projects!
 
 ---
