@@ -91,7 +91,7 @@ I work across **React, Node.js, Python, C, C++**, and more, building innovative 
 ### 🏆 GitHub Achievements & Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mauryasuryakant&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
+    <img src="[https://github-readme-stats.vercel.app/api?username=mauryasuryakant&show_icons=true&theme=highcontrast](https://github-readme-stats.vercel.app/api?username=mauryasuryakant&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&cache_seconds=1&v=20251021T170000)" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mauryasuryakant&theme=highcontrast" alt="GitHub Streak" />
 </p>
 
