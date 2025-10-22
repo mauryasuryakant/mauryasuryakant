@@ -115,7 +115,7 @@ I work across **React, Node.js, Python, C, C++**, and more, building innovative 
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mauryasuryakant&theme=onedark&no-bg=true&no-frame=true" alt="trophy"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=mauryasuryakant&theme=dracula&no-bg=true&no-frame=true" alt="trophy"/>
   </a>
 </p>
 
