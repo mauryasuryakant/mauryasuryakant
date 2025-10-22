@@ -44,7 +44,7 @@
 
 ---
 
-### 🌟 About Me
+### 👤 About Me
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&duration=3500&pause=99999999&color=00FF00&center=true&vCenter=true&multiline=true&width=700&lines=👋+Hey!+I'm+Suryakant.;" alt="Animated Typing SVG">
@@ -93,7 +93,7 @@ I work across **React, Node.js, Python, C, C++**, and more, building innovative 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauryasuryakant&layout=compact&theme=dark" alt="GitHub Streak" />
 </p>
 
-### 🏆 GitHub Achievements & Stats
+### 🌟 GitHub Achievements & Stats
 
 <p align="center">
     <img src="https://camo.githubusercontent.com/76b152ce7c8cb703e3c36b1213dfb6e7c8b6217f5a8dcd5dd7fe9adbf5570c9a/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d617572796173757279616b616e74267468656d653d68696768636f6e7472617374" /> <br/>
@@ -107,6 +107,16 @@ I work across **React, Node.js, Python, C, C++**, and more, building innovative 
 
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=mauryasuryakant&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+### 🏆 GitHub trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mauryasuryakant&theme=onedark&no-bg=true&no-frame=true" alt="trophy"/>
+  </a>
 </p>
 
 ---
