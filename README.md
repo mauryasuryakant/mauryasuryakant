@@ -96,7 +96,7 @@ I work across **React, Node.js, Python, C, C++**, and more, building innovative 
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mauryasuryakant&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15&bg_color=000000&title_color=00FF00&no-bg=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=mauryasuryakant&show_icons=true&theme=dark"/>
 </p>
 
 ---
