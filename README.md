@@ -140,3 +140,20 @@ I work across **React, Node.js, Python, C, C++**, and more, building innovative 
 - I am always keen to collaborate on open source projects!
 
 ---
+
+
+<!-- ### 🏆 Top Programming Languages
+
+| Language     | Emoji Combo                     | Vibe                        |
+|--------------|----------------------------------|-----------------------------|
+| **C++**       | 🧠⚙️💥                           | Power + Precision + Speed  |
+| **Java**      | ☕🐘🚀                           | Classic + Robust + Scalable|
+| **Python**    | 🐍🧪🎓                           | Friendly + Scientific + Smart|
+| **JavaScript**| 🌐⚡🎨                           | Web + Fast + Creative       |
+| **C#**        | 🎯🖥️🔧                           | Sharp + Desktop + Tools     |
+| **Go**        | 🌀🐹🏎️                           | Efficient + Fun + Fast      |
+| **Rust**      | 🦀🛡️⚙️                           | Safe + Hardcore + Systems   |
+| **TypeScript**| 📘🔍🧩                           | Typed + Precise + Modular   |
+| **Swift**     | 🕊️📱🎯                           | Elegant + iOS + Snappy      |
+| **Kotlin**    | 🧬📱🛠️                           | Modern + Mobile + Versatile |
+-->
