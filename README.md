@@ -2,6 +2,7 @@
 
 ```bash
 npx mauryasuryakant
+
 ```
 
 Because apparently, **my name needed to be executable.** 😂💀
